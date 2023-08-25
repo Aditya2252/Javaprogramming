@@ -8,8 +8,8 @@ public class tut15 {
 
     }
   }
-  public static Node head = null;
-  public static Node tail=null;
+  public static Node head;
+  public static Node tail;
 
   public void insert(int data){
 
